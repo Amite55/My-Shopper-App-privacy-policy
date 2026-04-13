@@ -3,6 +3,8 @@
 > **Effective Date:** April 1, 2026
 > 
 > **Developer:** Madhab Mozumder
+>
+> > **Company:** B W Consulting LLC
 > 
 > **Contact:** [bwilkison@gmail.com](mailto:bwilkison@gmail.com)
 
