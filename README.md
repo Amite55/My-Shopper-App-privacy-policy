@@ -1,7 +1,7 @@
 # 🛡️ My Shopper — Privacy Policy
 
 > **Effective Date:** April 1, 2026  
-> **Developer:** B W Consulting LLC  
+> **Developer:** Madhab Mozumder
 > **Contact:** [bwilkison@gmail.com](mailto:bwilkison@gmail.com)
 
 ---
