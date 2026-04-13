@@ -1,11 +1,11 @@
 # 🛡️ My Shopper — Privacy Policy
 
 > **Effective Date:** April 1, 2026
-> 
+
 > **Developer:** Madhab Mozumder
->
->  **Company:** B W Consulting LLC
-> 
+
+>**Company:** B W Consulting LLC
+
 > **Contact:** [bwilkison@gmail.com](mailto:bwilkison@gmail.com)
 
 ---
@@ -66,6 +66,25 @@ You may stop all data collection at any time by **uninstalling the Application**
 
 - User-provided data is retained **as long as you use the Application** and for a reasonable period thereafter.
 - To request deletion of your data, contact us at: [bwilkison@gmail.com](mailto:bwilkison@gmail.com)
+
+---
+
+## 🗑️ Account & Data Deletion Request
+
+You have the right to request the deletion of your account and all associated personal data at any time.
+
+### How to Submit a Request
+
+1. 📝 Fill out the official deletion request form:  
+   **👉 [Request Account Deletion](https://forms.gle/dqozDXqBDEmBJGLt5)**
+
+2. Once submitted, our admin team will **review your request**.
+
+3. You will be notified via email once your data has been deleted.
+
+> ⏳ **Please allow up to 30 days** for your request to be processed.
+
+> 🔒 All deletion requests are handled securely and confidentially.
 
 ---
 
