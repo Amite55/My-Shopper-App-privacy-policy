@@ -29,6 +29,7 @@ When you download and use the Application, we may automatically collect the foll
 | ⏱️ Usage Duration | Total time spent on the Application |
 | 📱 Device Info | Operating system of your mobile device |
 | 📍 Location Data | Approximate geographical location |
+| 💳 Transaction Data | Purchase history and payment status |
 
 ### 📍 How We Use Location Data
 
@@ -36,15 +37,43 @@ When you download and use the Application, we may automatically collect the foll
 - **Analytics & Improvements** — Aggregated and anonymized data to analyze trends and improve performance
 - **Third-Party Services** — Anonymized location data may be shared with external services to optimize our offerings
 
-> 🤖 **Note:** The Application does **not** use Artificial Intelligence (AI) technologies to process your data.
-
+> 🤖 **Note:** The Application does not use Artificial Intelligence (AI) to make automated decisions that significantly affect users.
 ---
+
+## 💳 Payments & Financial Information
+
+The Application uses third-party payment processing services provided by Stripe to handle transactions securely.
+
+When you make a purchase through the Application:
+
+- Your payment details (such as credit/debit card information) are collected and processed directly by Stripe.
+- The Application does NOT store your full payment card details on its servers.
+- We may receive limited information from Stripe, such as:
+  - Payment status (success/failed)
+  - Transaction ID
+  - Partial billing details (e.g., last 4 digits of card)
+
+### 🔐 Stripe Privacy Policy
+
+Your payment data is handled according to Stripe’s privacy practices.  
+Please review their policy here:
+
+👉 https://stripe.com/privacy
+
+### 📊 How We Use Payment Information
+
+- To process and confirm your orders
+- To maintain transaction history
+- To detect and prevent fraudulent transactions
+
+  
 
 ## 🔗 Third-Party Access
 
 Only **aggregated, anonymized** data is transmitted to external services. Below are the third-party services used and their privacy policies:
 
-- 📦 [Google Play Services](https://www.google.com/policies/privacy/)
+- 📦 Google Play Services — https://www.google.com/policies/privacy/
+- 💳 Stripe — https://stripe.com/privacy
 
 ### When We May Share Your Information
 
@@ -100,6 +129,8 @@ You have the right to request the deletion of your account and all associated pe
 ## 🔐 Security
 
 The Service Provider implements **physical, electronic, and procedural safeguards** to protect your information.
+
+- All payment transactions are encrypted and securely processed by Stripe using industry-standard security measures (e.g., PCI-DSS compliance).
 
 ---
 
